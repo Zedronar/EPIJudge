@@ -1,6 +1,11 @@
+from test_framework import generic_test
 from typing import List
 
-from test_framework import generic_test
+
+import sys
+import os
+
+sys.path.append(os.getcwd() + '/..')
 
 
 def can_reach_end(A: List[int]) -> bool:

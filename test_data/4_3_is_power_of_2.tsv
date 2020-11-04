@@ -1,0 +1,18 @@
+int	bool
+1	true	1 is 2 to the power of 0 so one is a power of two
+2	true	2 is 2 to the power of 1 so two is a power of two
+4	true	4 is 2 to the power of 2 so four is a power of two
+8	true	TODO
+16	true	TODO
+32	true	TODO
+64	true	TODO
+128	true	TODO
+256	true	TODO
+512	true	TODO
+1024	true	TODO
+1000	false	TODO
+3	false	TODO
+5	false	TODO
+6	false	TODO
+12	false	TODO
+99	false	TODO
